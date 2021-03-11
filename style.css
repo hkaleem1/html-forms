@@ -1,0 +1,25 @@
+section {
+    margin-right: 10px;
+}
+
+form {
+    width: 100%;
+}
+
+label {
+    display: block;
+    padding: 10px 0 0 0;
+}
+
+/* button {
+
+} */
+
+input, textarea {
+    width: 100%;
+    margin: 0 500px 0 0;
+}
+
+textarea {
+    height: 160px;
+}
